@@ -1,0 +1,1 @@
+{"model":"logistic regression on [logit p_rescue, cross-encoder logit, logit*xenc] for the rescue top-5 candidates (US+India)","coef":[0.635,0.652,0.031],"intercept":-0.694,"rescue_auc":{"p_rescue":0.9788,"xenc":0.9788,"stacked":0.9933},"top1_correct":{"old":16194,"new":17134,"of_records_with_true_in_top5":18274},"local_gain":0.0002}
