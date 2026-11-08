@@ -1,0 +1,6 @@
+# packages for the Colab notebooks (a free Colab T4 runtime already has them)
+torch
+transformers
+pandas
+pyarrow
+scikit-learn
